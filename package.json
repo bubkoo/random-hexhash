@@ -22,11 +22,6 @@
     "dice",
     "mock"
   ],
-  "author": {
-    "name": "bubkoo",
-    "email": "bubkoo.wy@gmail.com"
-  },
-  "license": "MIT",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
@@ -36,15 +31,18 @@
   },
   "dependencies": {
     "object-assign": "^4.0.1",
-    "random-char": "^1.0.4",
+    "random-strr": "^1.0.0",
     "to-length": "^1.0.1"
   },
+  "author": {
+    "name": "bubkoo",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mock-end/random-hexhash.git"
   },
-  "author": "bubkoo <bubkoo.wy@gmail.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mock-end/random-hexhash/issues"
   },

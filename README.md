@@ -51,6 +51,13 @@ randomHash({casing: 'upper'});
 
 ## Related
 
+- [random-uuid](https://github.com/mock-end/random-uuid) - Return a random uuid.
+- [random-identity](https://github.com/mock-end/random-identity) - Return a random ID.
+- [random-dx](https://github.com/mock-end/random-dx) - Return a value equal to the roll of a die.
+- [random-normal](https://github.com/mock-end/random-normal) - Return a normally-distributed random variate.
+- [random-rpg](https://github.com/mock-end/random-rpg) - Return an array of dice values.
+- [random-file](https://github.com/mock-end/random-file) - Return a random file name with random extension.
+- [random-semver](https://github.com/mock-end/random-semver) - Return a random version.
 
 ## Contributing
 
